@@ -9,5 +9,7 @@ Settings Icon: Professional 3D settings icon for a polished user interface.
 
 # Technologies Used
 React.js: A JavaScript library for building user interfaces.
+
 CSS: For styling the application, including 3D effects and animations.
+
 Font Awesome: For the professional settings icon.
